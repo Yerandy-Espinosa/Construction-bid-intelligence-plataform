@@ -1,2 +1,2 @@
 # Construction-bid-intelligence-plataform
-DEMO for
+DEMO for construction bid
